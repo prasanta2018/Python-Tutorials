@@ -28,6 +28,7 @@ rotated_list: ['AZ3412', 'R7148', 'HR4129']
 
 # Solution
 
+
 def list_rotate(uniquecode_list):
     rotated_list = []
 
