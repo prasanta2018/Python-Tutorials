@@ -1,8 +1,7 @@
 # Infosys Programming Fundamental Practice Mock Question
 
+# Scenario:
 '''
-Scenario:
-
 Consider a list (uniquecode_list) containing strings representing unique codes for vehicle identification.
 
     For Example:
@@ -27,6 +26,7 @@ uniquecode_list: ['AZ01-1234','R137-8714','HR05-2941']
 rotated_list: ['AZ3412', 'R7148', 'HR4129']
 '''
 
+# Solution
 
 def list_rotate(uniquecode_list):
     rotated_list = []
