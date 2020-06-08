@@ -1,0 +1,14 @@
+Q1: Write a pseudo-code to move from the start(S) to the end(E) in the maze.
+
+Answer:
+
+move Right
+move Right
+while(start != end) do
+if(Is_Next_Block_Bomb) then
+move Down
+move Down
+end-if
+move Right
+move Right
+end-while
