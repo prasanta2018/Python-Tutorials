@@ -33,4 +33,3 @@ if(per_head_cost % 5 == 0):
 #Do not modify the below print statements for verification to work
 print(per_head_cost)
 print(divisible_by_five)
-
